@@ -1,5 +1,5 @@
 Grupo:
 
-- Jessica Maria Arruda
-- Lucas Ilech dos Santos
-- Pablo Benachio
+Jessica Arruda
+Lucas Ilech
+Pablo Benachio
